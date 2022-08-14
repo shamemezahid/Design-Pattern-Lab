@@ -1,0 +1,14 @@
+Class Diagram: 
+
+https://lucid.app/lucidchart/34aa318c-2734-438e-9792-10c11ce315ad/view
+
+
+Sequence Diagram One (Register):
+
+https://lucid.app/lucidchart/ad0d0835-8614-4165-932d-925ee2fdc7a4/view
+
+
+Sequence Diagram Two (Renew):
+
+https://lucid.app/lucidchart/b33df1aa-a4b8-41c2-8c8a-16b70b0d3a2c/view
+
